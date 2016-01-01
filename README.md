@@ -9,3 +9,5 @@
 2. Create a new issue (https://github.com/MinecraftFrontiers/Minecraft-Frontiers/issues/new).
 3. Please use specific names and details in the issue (this will help us find the issue and fix it).
 4. Include some pictures if you can (you can drag and drop them here).
+
+[Donations](https://www.google.com)
