@@ -7,5 +7,5 @@
 ##Posting An Issue
 1. Verify that your issues has not already been posted (use the search box in the top navigation bar), and if it doesnt exist already continue following these steps.
 2. Create a new issue [here](https://github.com/MinecraftFrontiers/Minecraft-Frontiers/issues/new).
-3. Please use specific names, details, cordinates, step by step ways to reporoduct, and anything else you may thing will help us fix the issue.
+3. Please use specific names, details, cordinates, step by step ways to reproduce, and anything else you may thing will help us fix the issue.
 4. Include screenshots and videos of the issue *if* you can (dragging and dropping works).
