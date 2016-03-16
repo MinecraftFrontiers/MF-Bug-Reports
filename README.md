@@ -1,7 +1,7 @@
 #Minecraft Frontiers Bug Tracker
 
 ##What To Post Here?
-1. If your issue isnt server related, but is forum or [donation](http://www.minecraftfrontiers.com/forums/section/donation-inquiries.20/) related please deal with those via email(owner@minecraftfrontiers.com), in the appropriate forum section, or by reporting the post.
+1. If your issue isnt server related, but is forum or [donation](http://www.minecraftfrontiers.com/forums/section/donation-inquiries.20/) related please deal with those via email (owner@minecraftfrontiers.com), in the appropriate forum section, or by reporting the post.
 2. If you find a major exploit, please do not post it here for other people to abuse istead please [PM tcvs](http://www.minecraftfrontiers.com/forums/conversations/add?to=tcvs) on the forums.
 
 ##Posting An Issue
